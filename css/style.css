@@ -1,0 +1,49 @@
+* {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+.linea {
+    display: flex;
+    list-style: none;
+}
+
+.prosegur {
+    color: rgb(233, 143, 8);
+    text-decoration-line: underline;
+}
+
+.azul {
+    color: blue;
+    text-decoration-line: underline;
+}
+
+.rojo {
+    color: red;
+    text-decoration-line: underline;
+}
+
+.titulo {
+    color: rgb(82, 41, 7);
+}
+
+.nava {
+    color: rgb(235, 83, 13)
+}
+
+.sub {
+    color: aliceblue;
+    background-color: rgb(146, 71, 17);
+}
+
+.img {
+    width: 100vw;
+}
+
+.texto {
+    text-decoration-line: underline;
+}
+
+.elegirnos {
+    color: gold;
+    background-color: rgb(146, 71, 17);
+}
